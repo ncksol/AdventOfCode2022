@@ -15,11 +15,7 @@ def puzzle1(lines):
     return max
 
 def puzzle2(lines):
-    max1 = 0
-    max2 = 0
-    max3 = 0
     sum = 0
-
     sums = set()
 
     for line in lines:
